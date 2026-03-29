@@ -5,6 +5,7 @@ Homebrew tap for Swooshy.
 ## Install
 
 ```bash
+brew update
 brew tap xiamiyu123/swooshy
 brew install --cask swooshy
 ```
