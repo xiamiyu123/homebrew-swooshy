@@ -1,8 +1,8 @@
 cask "swooshy" do
-  version "2.6.8"
-  sha256 "aa8fb920ce9d19a98afd6fea8bfa4134626a2131c6962e9649e8b571fb1f597a"
+  version "2.6.9"
+  sha256 "0db7a272ff3e7785ee64abcff5550c9a12baceefe0ece3dc679e8ec97c6b2ed9"
 
-  url "https://github.com/xiamiyu123/Swooshy/releases/download/v2.6.8/Swooshy-macOS-v2.6.8.zip",
+  url "https://github.com/xiamiyu123/Swooshy/releases/download/v2.6.9/Swooshy-macOS-v2.6.9.zip",
       verified: "github.com/xiamiyu123/Swooshy/"
   name "Swooshy"
   desc "Open-source macOS touchpad-first window utility"
